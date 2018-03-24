@@ -1,19 +1,23 @@
-# Messenger Platform Quick Start
+# Amber Theory
+> A Facebook chat bot for the BlockChain enthusiasts
 
-Welcome to your first step toward building awesome Messenger apps!
+## Inspiration
+Potential for Cryptocurrency and BlockChain technologies is out there. Our goal was to make it easier for the average layman to want to use it. What is the best way to encourage mass adoption of decentralized concepts in a mainly centralized society? Through bridging both centralized and decentralized tools like Facebook (centralized personafied) and Ethererum BlockChain (decentralized personified).
 
-This project contains the code for a simple webhook you can use to get started using the Messenger Platform.
+## What it does
+Facebook and Messenger are ubiquitous. Nearly everyone has had Facebook or will at some point. What better way to motivate the masses to learn and adopt decentralized technologies than to learn about them in the comfort of your centralized big brother Facebook.
 
-The code here mirrors what is in our [webhook set up guide](https://developers.facebook.com/docs/messenger-platform/getting-started/webhook-setup), and may be used as the starting point for doing the [Messenger Platform quick start tutorial](https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start).
+## How we built it
+Node, express, Facebook Messenger API.
 
-## Additional Resources
+## Challenges we ran into
+How to incorporate BlockChain concepts into our chat bot app.
 
-Interested in learning more about the Messenger Platform? Check out these resources:
+## Accomplishments that we're proud of
+We learned how to navigate the Facebook API.
 
-- [**Webhook set up guide**](https://developers.facebook.com/docs/messenger-platform/getting-started/webhook-setup): The walkthrough for the code in this project.
+## What's next for Amber Theory
+Incorporate Ethereum Smart Contracts.
 
-- [**App set up guide**](https://developers.facebook.com/docs/messenger-platform/getting-started/app-setup): Instructions for setting up a Facebook app for use with the Messenger Platform, and hooking it up to this webhook.
-
-- [**Quick start tutorial**](https://developers.facebook.com/docs/messenger-platform/getting-started/quick-start): Build your first Messenger app by remixing this project and following our quick start tutorial.
-
-- [**Docs Docs Docs!**](https://developers.facebook.com/docs/messenger-platform/)
+## Built With
+`node.js`, `Facebook`, `Messenger`
